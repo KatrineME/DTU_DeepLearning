@@ -4,6 +4,7 @@ This repository contains files used for Project 9 in, 02456 DEEP LEARNING, DTU C
 
 - A U-Net algoritm: DL_Project9_U-Net_Algorithm.ipynb
 - A Mask-RCNN: DL_Project9_Mask-RCNN_Algorithm.ipynb
+- Poster presentation as PDF
 
 The data used for the project: https://warwick.ac.uk/fac/sci/dcs/research/tia/glascontest/download/
 
